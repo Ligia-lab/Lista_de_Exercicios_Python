@@ -24,3 +24,5 @@ def fatorial(num, show=False):
 num = int(input('Fatorial de: '))
 print(fatorial(num, show=True))
 help(fatorial)
+
+print('FIM')
